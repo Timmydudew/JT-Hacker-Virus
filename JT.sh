@@ -165,3 +165,5 @@ echo -e "$red                    [message this number on WhatsApp 2348050261876]
 upd(){
 echo -e "$red                    [No update for now]$rset"
 }
+banner
+menu
