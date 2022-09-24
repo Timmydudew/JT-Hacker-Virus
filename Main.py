@@ -28,6 +28,7 @@ def delay_print(s) :
         time.sleep(0.095)
 def num():
     while True:
+        
         write the number international format
         number = input("Enter number to hack his/her account:")
         numberr = number
