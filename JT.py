@@ -1,4 +1,4 @@
-Name = Print("JT Virtex">)
+Name = Print("JT Virtex")
 clear
 First = input("do you want to kill")
 if First==yes or First==Yes:
