@@ -77,7 +77,6 @@ echo " "
 echo " "
 echo -e "$red                        ➡$cyan [\e[92m1\e[96m] Infect now"
 echo -e "$red                        ➡$cyan [\e[92m2\e[96m] Save now"
-echo -e "$red                        ➡$cyan [\e[92m3\e[96m] About"
 echo -e "$red                        ➡$cyan [\e[92m4\e[96m] Update script "
 echo -e "$red                        ➡$cyan [\e[92m5\e[96m] Subscribe"
 echo -e "$red                        ➡$cyan [\e[92m6\e[96m] More"                      
@@ -94,9 +93,6 @@ virus
 elif [ $optnz = "2" ];
 then
 save
-elif [ $optnz = "3" ];
-then
-about
 virus(){
 ################
 clear
@@ -159,11 +155,3 @@ banner
 menu
 fi
 }
-about(){
-echo -e "$red                    [message this number on WhatsApp 2348050261876]$rset"
-}
-upd(){
-echo -e "$red                    [No update for now]$rset"
-}
-banner
-menu
