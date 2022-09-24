@@ -26,6 +26,6 @@ This is a virus that can hack WhatsApp and Android
 * `ls`
 * `cd JT-Hacker-Virus`
 * `ls`
-* `bash JT.sh`
+* `bash JT.py`
 ```
 # You can Thank me later
