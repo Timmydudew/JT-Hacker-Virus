@@ -150,8 +150,7 @@ if [ $exitz = "exit" ];
 then
 banner
 menu
-else
-banner
-menu
 fi
 }
+banner
+menu
