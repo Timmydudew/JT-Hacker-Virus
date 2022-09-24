@@ -152,5 +152,3 @@ banner
 menu
 fi
 }
-banner
-menu
