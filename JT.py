@@ -1,5 +1,5 @@
 def banner():
-             print("J         T.    VIR us
+             print("J         T.    VIR us")
 def Virus() :
              First = input("do you want to kill")'
              If First==yes or First==Yes:
