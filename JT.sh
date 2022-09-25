@@ -1,3 +1,4 @@
+#i will like to give thanks to noob hackers for this awesome script
 red="\e[91m"
 rset="\e[0m"
 grn="\e[92m"
