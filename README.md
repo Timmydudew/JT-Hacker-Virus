@@ -35,11 +35,4 @@ This is a virus that can destroy Android
 * `cd JT-Hacker-Virus`
 * `ls`
 * `bash JT.sh`
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=FantoX001)](https://github.com/Timmydudew)
-<br>
-# 📫 How to reach me:
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348050261876)
-<br>
-<p>if you have any issue you can talk to me on Whatsapp</p>
- You can Thank me later
+<p> update coming soon</p>
