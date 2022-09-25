@@ -35,7 +35,6 @@ This is a virus that can destroy Android
 * `cd JT-Hacker-Virus`
 * `ls`
 * `bash JT.sh`
-```
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=FantoX001)](https://github.com/Timmydudew)
 <br>
